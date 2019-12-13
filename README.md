@@ -1,4 +1,4 @@
-# Nginx is Forever Free
+# NGINX Support
 
 <p align="center">
    <a href="https://nginx.org/">
