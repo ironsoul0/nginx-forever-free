@@ -31,3 +31,4 @@ You can:
 
 - Temirzhan Yussupov from Kazakhstan 🇰🇿 ([ironsoul0](https://github.com/ironsoul0))
 - Anvar Umarov from Kazakhstan 🇰🇿 ([arpanetus](https://github.com/arpanetus))
+- Dias Kozhabay from Kazakhstan 🇰🇿 ([librerush](https://github.com/librerush))
