@@ -12,7 +12,7 @@ To start with, [nginx](https://github.com/nginx/nginx) is an open-source softwar
 
 On Thursday, December 12, law enforcement agencies searched the Moscow office of Nginx. The founders of the company Igor Sysoev and Maxim Konovalov, according to some reports, spent several hours at the interrogation. The reason for the investigative actions was a statement from the company associated with businessman Alexander Mamut - co-owner of Rambler Group holding. In the structures of the businessman believe that the rights to the web server Nginx belong to them, as Sysoev began its development in the course of work in Rambler in 2004.
 
-## How you can support us
+## How you can support NGINX and open-source software
 
 You can:
 
