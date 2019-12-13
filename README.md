@@ -22,7 +22,7 @@ You can:
 
 ## On Social Networks
 
-- [Yandex supports Nginx and open source](https://twitter.com/AntNesterov/status/1205404630898937857).
+- ["Open source is all we have" - Yandex supports NGINX](https://yandex.ru/blog/company/open-source-nashe-vse) on Yandex, RUS.
 - ["Dumb, blunt theft" (from Russian)](https://www.vedomosti.ru/technology/articles/2019/12/13/818679-reket) on Vedomosti, RUS.
 - ["The co-founder of Nginx told about the searches in the office and at home of the project founders" (from Russian)](https://vc.ru/legal/97173-soosnovatel-nginx-rasskazal-ob-obyskah-v-ofise-i-doma-u-sozdateley-proekta?comment=1551977) on VC, RUS.
 - ["Rambler Group tries to get the rights to the most popular Nginx web server in the world" (from Russian)](https://meduza.io/feature/2019/12/13/rambler-group-pytaetsya-poluchit-prava-na-samyy-populyarnyy-v-mire-veb-server-nginx-stoimostyu-v-sotni-millionov-dollarov) on Meduza, RUS.
