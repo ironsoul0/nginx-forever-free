@@ -1,6 +1,8 @@
 # Nginx is Forever Free ❤️
 
-![nginx-picture](https://nginx.org/nginx.png)
+<p align="center">
+![nginx-picture](https://miro.medium.com/max/3842/1*Vat08M5FBw7hLrZH93qy4Q.png)
+</p>
 
 ## Introduction
 
