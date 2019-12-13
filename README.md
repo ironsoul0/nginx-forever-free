@@ -30,3 +30,4 @@ You can:
 ## Supporters
 
 - Temirzhan Yussupov from Kazakhstan 🇰🇿 ([ironsoul0](https://github.com/ironsoul0))
+- Anvar Umarov from Kazakhstan 🇰🇿 ([arpanetus](https://github.com/arpanetus))
