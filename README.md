@@ -1,7 +1,9 @@
 # Nginx is Forever Free ❤️
 
 <p align="center">
-![nginx-picture](https://miro.medium.com/max/3842/1*Vat08M5FBw7hLrZH93qy4Q.png)
+   <a href="https://nginx.org/">
+    <img src="https://miro.medium.com/max/3842/1*Vat08M5FBw7hLrZH93qy4Q.png" alt="Logo" width="450">
+  </a>
 </p>
 
 ## Introduction
