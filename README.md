@@ -33,3 +33,4 @@ You can:
 - Anvar Umarov from Kazakhstan 🇰🇿 ([arpanetus](https://github.com/arpanetus))
 - Dias Kozhabay from Kazakhstan 🇰🇿 ([librerush](https://github.com/librerush))
 - Sherkhan Azimov from Kazakhstan 🇰🇿 ([azimovs](https://github.com/AzimovS))
+- Aisultan Kali from Kazakhstan 🇰🇿 ([akali](https://github.com/akali))
