@@ -34,3 +34,4 @@ You can:
 - Dias Kozhabay from Kazakhstan 🇰🇿 ([librerush](https://github.com/librerush))
 - Sherkhan Azimov from Kazakhstan 🇰🇿 ([azimovs](https://github.com/AzimovS))
 - Aisultan Kali from Kazakhstan 🇰🇿 ([akali](https://github.com/akali))
+- Aibek Bekbayev from Kazakhstan 🇰🇿 ([konakona666](https://github.com/konakona666))
